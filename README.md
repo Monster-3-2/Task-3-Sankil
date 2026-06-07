@@ -113,24 +113,3 @@ How many recommendations would you like? [default: 3]: 5
 
 ---
 
-## 🎯 Comparison: Project 2 vs Project 3
-
-| Aspect | Project 2 (KNN) | Project 3 (Recommender) |
-|--------|-----------------|------------------------|
-| **Algorithm** | Supervised Classification | Content-Based Filtering |
-| **Use Case** | Iris flower classification | Career recommendations |
-| **Data Type** | Numerical (measurements) | Categorical (skills) |
-| **Evaluation** | F1 score, confusion matrix | Similarity score ranking |
-| **Libraries** | Scikit-learn heavy | Pure Python (no ML libs) |
-| **User Input** | None (fixed dataset) | Interactive (3+ skills) |
-
----
-
-## 🚀 Learning Outcomes
-
-After completing these projects, you'll understand:
-
-1. **Project 2**: End-to-end ML pipeline from data loading → evaluation
-2. **Project 3**: How recommendation systems work & the importance of vectorization
-
----
